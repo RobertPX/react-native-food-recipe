@@ -5,11 +5,11 @@
 
 Recipe app with themealdb API and open source for everyone. Built with React Native and Expo.
 
-![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/v1670281443/Screenshot_1670280286_oiyigq.png)
-![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/v1670281443/Screenshot_1670280324_ynfugx.png)
-![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/v1670281443/Screenshot_1670280348_tpc8el.png)
-![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/v1670281443/Screenshot_1670280389_vpg83k.png)
-![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/v1670281442/Screenshot_1670280369_boiqzn.png)
+![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/c_scale,w_270/v1670281443/Screenshot_1670280286_oiyigq.png)
+![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/c_scale,w_270/v1670281443/Screenshot_1670280324_ynfugx.png)
+![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/c_scale,w_270/v1670281443/Screenshot_1670280348_tpc8el.png)
+![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/c_scale,w_270/v1670281443/Screenshot_1670280389_vpg83k.png)
+![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/c_scale,w_270/v1670281442/Screenshot_1670280369_boiqzn.png)
 
 # Installation
 
