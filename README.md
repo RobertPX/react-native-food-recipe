@@ -5,6 +5,10 @@
 
 Recipe app with themealdb API and open source for everyone. Built with React Native and Expo.
 
+Demo: [https://expo.io/@jsxclan/musicont](https://expo.dev/@robertpx/FoodRecipeApp)
+
+APK: [Download on Google Drive](https://drive.google.com/file/d/1OgH7n9oDqbhQRFD5cDHCa8fOPsSPaYrl/view?usp=sharing)
+
 ![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/c_scale,w_270/v1670281443/Screenshot_1670280286_oiyigq.png)
 ![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/c_scale,w_270/v1670281443/Screenshot_1670280324_ynfugx.png)
 ![RecipeApp](https://res.cloudinary.com/dhruoioov/image/upload/c_scale,w_270/v1670281443/Screenshot_1670280348_tpc8el.png)
